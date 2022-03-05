@@ -25,11 +25,10 @@ The things you'll need in order to use the app and how to install them
 ![editTODO](https://user-images.githubusercontent.com/99803050/156902361-80d32041-dfb3-4c6d-8f5f-5df0ae2b4e0c.png)
 
 
-
 ## Built with
 
 * [Objective-C](https://developer.apple.com/objective-c/) - The programming language used
-* NO Third party libraries![image](https://user-images.githubusercontent.com/99803050/156902381-b472d1a6-fbc7-4799-8c45-caee447ba00a.png)
+* NO Third party libraries
 
 
 ## Authors
